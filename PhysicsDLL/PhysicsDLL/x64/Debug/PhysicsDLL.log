@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Foo.cpp
+  PhysicsDLL.cpp
+  dllmain.cpp
+  Generating Code...
+     Creating library C:\Users\John\Desktop\Game Physics\PhysicsDLL\PhysicsDLL\x64\Debug\PhysicsDLL.lib and object C:\Users\John\Desktop\Game Physics\PhysicsDLL\PhysicsDLL\x64\Debug\PhysicsDLL.exp
+  PhysicsDLL.vcxproj -> C:\Users\John\Desktop\Game Physics\PhysicsDLL\PhysicsDLL\x64\Debug\PhysicsDLL.dll
